@@ -18,10 +18,10 @@
 
 ## Be the Automator, not the Automated <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" height="32">
 
-- ⚙️ Head of DevOps
+- ⚙️ Head of AI, DevOps & Cloud
 - 🤖 AI, Machine Learning and NeuroComputing
-- ❤️ Coding
-- ⏩ Old & New, from COBOL & Mainframe to Keras and Pyspark 
+- ❤️ Scripting, Coding, Infrastructure as Code, SOLID.
+- ⏩ `Old` meets `New`, from COBOL & Mainframe to Keras and Pyspark 
 
 ## Security at the Speed of DevOps
 <p align="center">
@@ -29,6 +29,12 @@
 	<img src="starmap.png" alt="DevOpsStarmap">
 	</a>
 </p>
+
+
+
+Intelligence As a Service [link](https://youtu.be/4rqZSLHPdR4) | Open Source as a Culture [link](https://youtu.be/fwcTOqZSzVM")
+--- | ---
+<a href="https://youtu.be/4rqZSLHPdR4"><img src="cyber.png" alt="Intelligence as a service"></a> | <a href="https://youtu.be/fwcTOqZSzVM"><img src="opensource.png" alt="Open Souce"></a>
 
 
 
