@@ -55,7 +55,36 @@ Intelligence As a Service [link](https://youtu.be/4rqZSLHPdR4) | Open Source as 
 A slightly different take on cybersecurity, information feeds are all from the public, twitter, reddit etc and parsed based upon word of mouth rather than traditional threat intelligence stats. Data, 
 images, tweets and comments are all parsed automatically and do not reflect the opinion of the platform developer (me).  
 
+[Darkwire](https://murchie85.github.io/darkwire/darkwire.html)
 
+
+
+# Latest Data Project: Celestus The Gossip Town
+
+<p align="center">
+	<a href="https://hackernoon.com/gossip-simulation-implemented-in-python-r8u345b">
+	<img src="celestus.png">
+	</a>
+</p>
+
+
+
+
+In Yuval Harai's pivotal book Sapiens the author explains how Story Telling and collective belief define the human race. In fact these uniquely human characteristics may have helped differentiate Sapiens from their historical competitors and allowed us to thrive into the technological society we have today.
+
+<p align="center">
+	<a href="https://hackernoon.com/gossip-simulation-implemented-in-python-r8u345b">
+	<img src="https://media.giphy.com/media/R8KRaPN9HjzdlxMTS1/giphy.gif">
+	</a>
+</p>
+
+As such, i've designed a **Hyrbid ML Platform** that comes with a CLI, but can also be played and interacted with like a game. The goal is to simulate how gossip evolves over time and is leveraged by social agents (Bots, AI, and humans).
+
+<p align="center">
+	<a href="https://hackernoon.com/gossip-simulation-implemented-in-python-r8u345b">
+	<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2F8TYrRgo0HFPExnKBzEy9yKwK4W12-to1l3461.jpeg&w=3840&q=75">
+	</a>
+</p>
 
 
 
