@@ -63,7 +63,7 @@ images, tweets and comments are all parsed automatically and do not reflect the 
 
 <p align="center">
 	<a href="https://hackernoon.com/gossip-simulation-implemented-in-python-r8u345b">
-	<img src="celestus.png">
+	<img src="Celestus.jpg">
 	</a>
 </p>
 
