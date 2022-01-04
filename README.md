@@ -3,11 +3,17 @@
 
 </p>
 <p align="left">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/murchie85/murchie85.github.io?label=Core%20Langauges"> • 
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/murchie85/murchie85.github.io"> • 
   <img src="https://gpvc.arturio.dev/murchie85" alt="profile views"> • 
-  <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Down&label=DarkWire%20Cyber%20Insights&logo=Github&url=https%3A%2F%2Fmurchie85.github.io%2Fdarkwire%2Fdarkwire.html"> • 
-  <a href="https://www.linkedin.com/in/adam-mcmurchie/-83863177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> •  
+  <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Down&label=DarkWire&logo=Github&url=https%3A%2F%2Fmurchie85.github.io%2Fdarkwire%2Fdarkwire.html"> • 
+ <a href="https://www.linkedin.com/in/adam-mcmurchie/-83863177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> •  
+
+<a href="https://www.youtube.com/channel/UCdiVvGa0AewSRIIJVxMji4w">
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCdiVvGa0AewSRIIJVxMji4w?style=social"></a>  • 
 
 </p>
+
 
 
 <p align="center">
@@ -19,8 +25,8 @@
 ## Be the Automator, not the Automated <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" height="32">
 
 - ⚙️ Head of AI, DevOps & Cloud
+- ❤️ `Custom AI`, `Crypto`, `GameDev`, `Infra as Code` 
 - 🤖 AI, Machine Learning and NeuroComputing
-- ❤️ Scripting, Coding, Infrastructure as Code, SOLID.
 - ⏩ `Old` meets `New`, from COBOL & Mainframe to Keras and Pyspark 
 
 ## Security at the Speed of DevOps
@@ -38,7 +44,7 @@ Intelligence As a Service [link](https://youtu.be/4rqZSLHPdR4) | Open Source as 
 
 
 
-# Latest Project: Lifted
+# Latest Game Project: Lifted
 
 ![](pics/21oct.png)
 
