@@ -25,7 +25,7 @@
 ## Be the Automator, not the Automated <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" height="32">
 
 - ⚙️ Head of AI, DevOps & Cloud
-- ❤️ `Custom AI`, `Crypto`, `GameDev`, `Infra as Code` 
+- ❤️ `Custom AI`, `Crypto`, `GameDev`, `Infra as Code`, `blockChain`
 - 🤖 AI, Machine Learning and NeuroComputing
 - ⏩ `Old` meets `New`, from COBOL & Mainframe to Keras and Pyspark 
 
@@ -41,6 +41,21 @@
 Intelligence As a Service [link](https://youtu.be/4rqZSLHPdR4) | Open Source as a Culture [link](https://youtu.be/fwcTOqZSzVM")
 --- | ---
 <a href="https://youtu.be/4rqZSLHPdR4"><img src="cyber.png" alt="Intelligence as a service"></a> | <a href="https://youtu.be/fwcTOqZSzVM"><img src="opensource.png" alt="Open Souce"></a>
+
+
+# InfoSec: DarkWire
+
+<p align="center">
+	<a href="https://murchie85.github.io/darkwire/darkwire.html">
+	<img src="darkwire.png" alt="Darkwire insights">
+	</a>
+</p>
+
+
+A slightly different take on cybersecurity, information feeds are all from the public, twitter, reddit etc and parsed based upon word of mouth rather than traditional threat intelligence stats. Data, 
+images, tweets and comments are all parsed automatically and do not reflect the opinion of the platform developer (me).  
+
+
 
 
 
