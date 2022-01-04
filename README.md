@@ -16,6 +16,22 @@
 
 
 
+## Be the Automator, not the Automated <img src="https://media.giphy.com/media/fu3GohBvHTaco/giphy.gif" height="32">
+
+- ⚙️ Head of DevOps
+- 🤖 AI, Machine Learning and NeuroComputing
+- ❤️ Coding
+- ⏩ Old & New, from COBOL & Mainframe to Keras and Pyspark 
+
+## Security at the Speed of DevOps
+<p align="center">
+	<a href="https://youtu.be/DRvnE5uheS8">
+	<img src="starmap.png" alt="DevOpsStarmap">
+	</a>
+</p>
+
+
+
 # Latest Project: Lifted
 
 ![](pics/21oct.png)
