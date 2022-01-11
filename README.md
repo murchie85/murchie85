@@ -5,7 +5,7 @@
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/murchie85/murchie85.github.io?label=Core%20Langauges"> • 
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/murchie85/murchie85.github.io"> • 
-  <img src="https://gpvc.arturio.dev/murchie85" alt="profile views"> • 
+  <img src="https://gpvc.arturio.dev/murchie85" alt="Weekly profile views"> • 
   <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Down&label=DarkWire&logo=Github&url=https%3A%2F%2Fmurchie85.github.io%2Fdarkwire%2Fdarkwire.html"> • 
  <a href="https://www.linkedin.com/in/adam-mcmurchie/-83863177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> •  
 
